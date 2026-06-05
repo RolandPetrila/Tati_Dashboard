@@ -1,7 +1,7 @@
 {
-  "name": "Dosar medical Petrilă Viorel-Mihai",
-  "short_name": "Dosar .Tati",
-  "description": "Vizualizare rapidă a dosarului medical: status clinic, medicație, analize, calendar CT, acțiuni.",
+  "name": "Panou personal",
+  "short_name": "Panou",
+  "description": "Panou personal de organizare și planificare.",
   "lang": "ro",
   "dir": "ltr",
   "start_url": "./",
@@ -11,7 +11,7 @@
   "orientation": "any",
   "background_color": "#f4f6f9",
   "theme_color": "#1e40af",
-  "categories": ["medical", "health", "productivity"],
+  "categories": ["productivity", "utilities"],
   "icons": [
     {
       "src": "assets/icon-192.png",
